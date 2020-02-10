@@ -1,1 +1,1 @@
-[#Freelancer#](https://timkariev.github.io/)#
+#[Tim Kariev CV](https://timkariev.github.io/)#
